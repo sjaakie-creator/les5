@@ -1,6 +1,6 @@
 # pasta carbonara recept
 
-!<img>pasta.jpg</img>
+![alt text](pasta.jpg)
 
 ##BENODIGHEDEN
 400 gr spaghetti
